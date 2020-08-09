@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="ls4inform-update-site" url="https://github.com/toerob/ls4inform-update-site">
-      
+   <description name="ls4inform-update-site" url="https://toerob.github.io/ls4inform-update-site/">
+      Update site for ls4inform6 - a  language server for the inform6 programming language
    </description>
    <feature url="features/ls4inform6.feature_0.5.0.202008091113.jar" id="ls4inform6.feature" version="0.5.0.202008091113" os="linux,macosx,win32"/>
 </site>
